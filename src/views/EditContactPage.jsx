@@ -5,7 +5,7 @@ const EditContactPage = () => {
   return (
     <div>
 
-      {selec}
+      <EditContact/>
 
     </div>
   )
